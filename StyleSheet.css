@@ -1,0 +1,13 @@
+﻿.newStyle2 {
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    font-weight: normal;
+    font-size: 17px;
+    color: #262626;
+    text-align: center;
+    border-spacing: 6px;
+    empty-cells: show;
+    padding: 5px;
+    border: 6px solid #979797;
+    background-color: #646464;
+    width: 800px;
+}
